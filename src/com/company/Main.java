@@ -9,6 +9,7 @@ public class Main {
             System.out.println(i);
             pause(1000);
             System.out.flush();
+			System.out.println("Coś");
         }
     }
 
